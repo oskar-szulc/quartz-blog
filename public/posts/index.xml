@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on My Blog</title><link>https://oskar-szulc.github.io/quartz-blog/posts/</link><description>Recent content in Posts on My Blog</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Tue, 26 Aug 2025 19:32:48 -0400</lastBuildDate><atom:link href="https://oskar-szulc.github.io/quartz-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog</title><link>https://oskar-szulc.github.io/quartz-blog/posts/my-first-post/</link><pubDate>Tue, 26 Aug 2025 19:32:48 -0400</pubDate><guid>https://oskar-szulc.github.io/quartz-blog/posts/my-first-post/</guid><description>&lt;h1 id="welcome-to-my-blog">Welcome to My Blog&lt;/h1>
+&lt;p>This is my first post on my new Hugo blog! I&amp;rsquo;m using the beautiful PaperMod theme.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;p>This blog includes:&lt;/p>
+&lt;ul>
+&lt;li>Fast static site generation with Hugo&lt;/li>
+&lt;li>Beautiful responsive design with PaperMod theme&lt;/li>
+&lt;li>GitHub Pages hosting&lt;/li>
+&lt;li>Automatic deployment with GitHub Actions&lt;/li>
+&lt;li>Dark/light mode toggle&lt;/li>
+&lt;li>Search functionality&lt;/li>
+&lt;li>RSS feed&lt;/li>
+&lt;li>Social sharing buttons&lt;/li>
+&lt;/ul>
+&lt;h2 id="getting-started">Getting Started&lt;/h2>
+&lt;p>You can write posts in Markdown and they&amp;rsquo;ll be automatically converted to beautiful web pages.&lt;/p></description></item></channel></rss>

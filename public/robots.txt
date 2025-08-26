@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://oskar-szulc.github.io/quartz-blog/sitemap.xml

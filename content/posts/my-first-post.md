@@ -28,3 +28,5 @@ This blog includes:
 You can write posts in Markdown and they'll be automatically converted to beautiful web pages.
 
 Happy blogging! 🎉
+
+Updated: Environment protection rules removed for successful deployment.
